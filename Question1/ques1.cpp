@@ -8,7 +8,7 @@
 #include <climits>
 #include <iomanip>
 class LibraryItem
-{
+{                      
 protected:
     std::string identifier;
 
