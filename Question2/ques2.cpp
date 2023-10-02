@@ -8,9 +8,12 @@
 #include <climits>
 
 class LibraryItem
-{                  
+{             
 protected:
     std::string identifier;
+
+
+    
 
 public:
     LibraryItem(const std::string &id) : identifier(id) {}
